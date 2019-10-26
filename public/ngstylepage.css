@@ -1,4 +1,4 @@
-.ngbutton {
+button.ngbutton {
   background-color: #4CAF50; /* Green */
   border: none;
   color: white;
@@ -11,4 +11,4 @@
   cursor: pointer;
 }
 
-.ngbutton1 {width: 250px;}
+button.ngbutton1 {width: 250px;}
